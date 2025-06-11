@@ -19,7 +19,7 @@ Transform basic product information (name + brand) into fully categorized produc
 - **AI Enrichment**: One-click categorization using OpenAI
 - **CRUD Operations**: Add, edit, copy, delete products
 
-### 🏷️ Attribute Management  
+### Attribute Management  
 - **Custom Attributes**: Create attributes with AI enrichment
 - **Home Areas**: Kitchen, Bathroom, Living Room, etc.
 - **AI Prompts**: Configure custom prompts for each attribute
