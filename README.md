@@ -3,7 +3,7 @@
 An intelligent product enrichment platform that automatically categorizes and enriches e-commerce products using OpenAI's GPT-3.5-turbo API.
 
 ## Live Demo
-[https://product-enrichment-system-a049avqpy-mihirs-projects-8d452b92.vercel.app/](https://product-enrichment-system-a049avqpy-mihirs-projects-8d452b92.vercel.app/)
+https://product-enrichment-system.vercel.app/
 
 ## 📋 What It Does
 Transform basic product information (name + brand) into fully categorized products with:
